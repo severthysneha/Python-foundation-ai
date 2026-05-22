@@ -20,6 +20,7 @@ This repository contains my python learning journey for AI/ML and NLP.
   - Generative AI
     
   ## Practice Included
-  - Beginner practice problems
-  - Mini exercises
-  - Jupyter notebooks
+  - Practice problems solved in Jupyter notebook
+
+## Notes
+- Handwritten notes included for revision
